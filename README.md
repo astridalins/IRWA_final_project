@@ -1,8 +1,21 @@
 
 ## FINAL PROJECT (PART 1)
 This project is part of the **Information Retrieval and Web Analytics (IRWA)** coursework.
-It focuses on processing and analyzing an e-commerce fashion products dataset to prepare it for search and retrieval tasks.
-The work covers both **text preprocessing** and **exploratory data analysis (EDA)**.
+This repository contains the final project for the Information Retrieval and Web Analytics (IRWA) course.
+
+### Contents
+
+Part1_code.ipynb – Code for Part 1: Text Processing and Exploratory Data Analysis (24/10/2025)
+
+Part2_code.ipynb – Code for Part 2: Indexing and Evaluation (31/10/2025)
+
+Reports
+
+IRWA-2025-u215111-u214012-u199898-part-1.pdf – Report corresponding to Part 1
+
+IRWA-2025-u215111-u214012-u199898-part-2.pdf – Report corresponding to Part 2
+
+Each part includes code and analysis demonstrating the main concepts covered in the course.
 
 ## Getting Started
 
@@ -20,30 +33,14 @@ Also, install the following libraries:
 
 pip install pandas numpy nltk matplotlib seaborn wordcloud
 
+
 ### Installation
 
-1. Clone the repository:
-   git clone https://github.com/astridalins/IRWA_Project.git
+1. Clone the repository
 
-2. Navigate to the project directory:
-   cd IRWA_Project
-
-3. Open the notebook:
-   jupyter notebook FINAL_PROJECT_IRWA.ipynb
+3. Open the notebook
 
 4. Run the cells
-
-### End-to-End Tests
-
-Verify that the text processing pipeline runs correctly:
-
-1. Load dataset  
-2. Clean text (stopwords, tokenization, stemming)  
-3. Generate statistics and visualizations
-
-## Deployment
-
-You can export results and visualizations to HTML or PDF directly from Jupyter Notebook, or integrate the preprocessing pipeline into a future search API.
 
 ## Built With
 
