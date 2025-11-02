@@ -8,8 +8,6 @@ The work covers both **text preprocessing** and **exploratory data analysis (EDA
 
 These instructions will help you get a copy of the project up and running on your local machine for development and testing purposes.
 
-See **Deployment** for notes on how to deploy the project.
-
 ### Prerequisites
 
 You need to have installed:
@@ -25,7 +23,7 @@ pip install pandas numpy nltk matplotlib seaborn wordcloud
 ### Installation
 
 1. Clone the repository:
-   git clone https://github.com/your_username/IRWA_Project.git
+   git clone https://github.com/astridalins/IRWA_Project.git
 
 2. Navigate to the project directory:
    cd IRWA_Project
@@ -33,10 +31,7 @@ pip install pandas numpy nltk matplotlib seaborn wordcloud
 3. Open the notebook:
    jupyter notebook FINAL_PROJECT_IRWA.ipynb
 
-4. Run the cells in order to:
-   - Preprocess and clean the dataset.  
-   - Perform exploratory data analysis (EDA).  
-   - Visualize the results with charts and word clouds.
+4. Run the cells
 
 ### End-to-End Tests
 
