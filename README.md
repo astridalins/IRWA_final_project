@@ -1,5 +1,5 @@
 
-## FINAL PROJECT (PART 1)
+## FINAL PROJECT (PART 1 an 2)
 This project is part of the **Information Retrieval and Web Analytics (IRWA)** coursework.
 This repository contains the final project for the Information Retrieval and Web Analytics (IRWA) course.
 
